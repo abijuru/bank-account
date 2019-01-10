@@ -1,9 +1,11 @@
-#header { 
+.header { 
     background-color: khaki,
 };
 
-
-
+#footer{
+    padding:300px,
+    
+};
 
 
 
